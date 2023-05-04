@@ -22,7 +22,7 @@ You may also see any lint errors in the console.
 
 ## Available Scripts
 
-In the project directory, you can run:
+Install java and maven and In the project directory, you can run:
 
 ### `mvn clean install`
 
